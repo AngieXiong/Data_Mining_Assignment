@@ -1,4 +1,4 @@
-# **Data_Mining_Assignment**
+# **Data Mining Assignment**
 ### **Daily Cumulative Confirmed Cases Prediction of Covid-19 in Italy**
 ---
 The repo contains the dataset and code for Data Mining assignment
